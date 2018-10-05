@@ -1,0 +1,301 @@
+datetime,species,block,treatment ,pot,height_cm,leaves_nodes,position
+23/07/2018,corn,1,Tap ,1,53,6,South_North
+23/07/2018,corn,1,Solari ,2,48.5,6,South_North
+23/07/2018,corn,1,Cashido ,3,51.5,6,South_North
+23/07/2018,corn,2,Tap ,4,50,6,South_North
+23/07/2018,corn,2,Solari ,5,48.5,6,South_North
+23/07/2018,corn,2,Cashido ,6,45,6,South_North
+23/07/2018,corn,3,Tap ,7,50,6,South_North
+23/07/2018,corn,3,Solari ,8,47,6,South_North
+23/07/2018,corn,3,Cashido ,9,53,6,South_North
+23/07/2018,corn,4,Tap ,10,48,6,South_North
+23/07/2018,corn,4,Solari ,11,52.5,6,South_North
+23/07/2018,corn,4,Cashido ,12,53,6,South_North
+23/07/2018,corn,5,Tap ,13,47.5,6,South_North
+23/07/2018,corn,5,Solari ,14,51,6,South_North
+23/07/2018,corn,5,Cashido ,15,59,6,South_North
+23/07/2018,corn,6,Solari ,16,53.5,6,North_South
+23/07/2018,corn,6,Tap ,17,43,6,North_South
+23/07/2018,corn,6,Cashido ,18,50.5,6,North_South
+23/07/2018,corn,7,Solari ,19,46,6,North_South
+23/07/2018,corn,7,Tap ,20,50.5,6,North_South
+23/07/2018,corn,7,Cashido ,21,47,6,North_South
+23/07/2018,corn,8,Solari ,22,48,6,North_South
+23/07/2018,corn,8,Tap ,23,44.5,6,North_South
+23/07/2018,corn,8,Cashido ,24,41,6,North_South
+23/07/2018,corn,9,Solari ,25,60.5,6,North_South
+23/07/2018,corn,9,Tap ,26,48,5,North_South
+23/07/2018,corn,9,Cashido ,27,53,6,North_South
+23/07/2018,corn,10,Solari ,28,49,6,North_South
+23/07/2018,corn,10,Tap ,29,48,6,North_South
+23/07/2018,corn,10,Cashido ,30,49,6,North_South
+27/07/2018,corn,1,Tap ,1,75,7,South_North
+27/07/2018,corn,1,Solari ,2,72,7,South_North
+27/07/2018,corn,1,Cashido ,3,74,7,South_North
+27/07/2018,corn,2,Tap ,4,71,7,South_North
+27/07/2018,corn,2,Solari ,5,68,7,South_North
+27/07/2018,corn,2,Cashido ,6,66,7,South_North
+27/07/2018,corn,3,Tap ,7,71,7,South_North
+27/07/2018,corn,3,Solari ,8,66,7,South_North
+27/07/2018,corn,3,Cashido ,9,71,8,South_North
+27/07/2018,corn,4,Tap ,10,67,7,South_North
+27/07/2018,corn,4,Solari ,11,69,8,South_North
+27/07/2018,corn,4,Cashido ,12,70,8,South_North
+27/07/2018,corn,5,Tap ,13,69,7,South_North
+27/07/2018,corn,5,Solari ,14,72,7,South_North
+27/07/2018,corn,5,Cashido ,15,81,7,South_North
+27/07/2018,corn,6,Solari ,16,72,7,North_South
+27/07/2018,corn,6,Tap ,17,58,7,North_South
+27/07/2018,corn,6,Cashido ,18,69,7,North_South
+27/07/2018,corn,7,Solari ,19,65,7,North_South
+27/07/2018,corn,7,Tap ,20,72,7,North_South
+27/07/2018,corn,7,Cashido ,21,65,8,North_South
+27/07/2018,corn,8,Solari ,22,65,8,North_South
+27/07/2018,corn,8,Tap ,23,64,7,North_South
+27/07/2018,corn,8,Cashido ,24,58,7,North_South
+27/07/2018,corn,9,Solari ,25,79,7,North_South
+27/07/2018,corn,9,Tap ,26,64,7,North_South
+27/07/2018,corn,9,Cashido ,27,72,7,North_South
+27/07/2018,corn,10,Solari ,28,70,7,North_South
+27/07/2018,corn,10,Tap ,29,79,7,North_South
+27/07/2018,corn,10,Cashido ,30,68,7,North_South
+30/07/2018,corn,1,Tap ,1,88,8,South_North
+30/07/2018,corn,1,Solari ,2,84,8,South_North
+30/07/2018,corn,1,Cashido ,3,92,8,South_North
+30/07/2018,corn,2,Tap ,4,89,8,South_North
+30/07/2018,corn,2,Solari ,5,86,9,South_North
+30/07/2018,corn,2,Cashido ,6,82,8,South_North
+30/07/2018,corn,3,Tap ,7,88,8,South_North
+30/07/2018,corn,3,Solari ,8,83,8,South_North
+30/07/2018,corn,3,Cashido ,9,91,8,South_North
+30/07/2018,corn,4,Tap ,10,86,8,South_North
+30/07/2018,corn,4,Solari ,11,88,9,South_North
+30/07/2018,corn,4,Cashido ,12,93,8,South_North
+30/07/2018,corn,5,Tap ,13,82,8,South_North
+30/07/2018,corn,5,Solari ,14,92,8,South_North
+30/07/2018,corn,5,Cashido ,15,101,9,South_North
+30/07/2018,corn,6,Solari ,16,94,9,North_South
+30/07/2018,corn,6,Tap ,17,77,9,North_South
+30/07/2018,corn,6,Cashido ,18,76,7,North_South
+30/07/2018,corn,7,Solari ,19,85,8,North_South
+30/07/2018,corn,7,Tap ,20,92,8,North_South
+30/07/2018,corn,7,Cashido ,21,80,9,North_South
+30/07/2018,corn,8,Solari ,22,83,8,North_South
+30/07/2018,corn,8,Tap ,23,84,9,North_South
+30/07/2018,corn,8,Cashido ,24,75,8,North_South
+30/07/2018,corn,9,Solari ,25,93,8,North_South
+30/07/2018,corn,9,Tap ,26,79,7,North_South
+30/07/2018,corn,9,Cashido ,27,88,8,North_South
+30/07/2018,corn,10,Solari ,28,87,8,North_South
+30/07/2018,corn,10,Tap ,29,91,8,North_South
+30/07/2018,corn,10,Cashido ,30,78,8,North_South
+21/08/2018,corn,1,Tap ,1,156,10,South_North
+21/08/2018,corn,1,Solari ,2,156,10,South_North
+21/08/2018,corn,1,Cashido ,3,171,11,South_North
+21/08/2018,corn,2,Tap ,4,155,11,South_North
+21/08/2018,corn,2,Solari ,5,152,11,South_North
+21/08/2018,corn,2,Cashido ,6,152,12,South_North
+21/08/2018,corn,3,Tap ,7,136,11,South_North
+21/08/2018,corn,3,Solari ,8,146,11,South_North
+21/08/2018,corn,3,Cashido ,9,166,10,South_North
+21/08/2018,corn,4,Tap ,10,152,9,South_North
+21/08/2018,corn,4,Solari ,11,152,11,South_North
+21/08/2018,corn,4,Cashido ,12,159,12,South_North
+21/08/2018,corn,5,Tap ,13,152,11,South_North
+21/08/2018,corn,5,Solari ,14,145,10,South_North
+21/08/2018,corn,5,Cashido ,15,136,11,South_North
+21/08/2018,corn,6,Solari ,16,137,11,North_South
+21/08/2018,corn,6,Tap ,17,147,13,North_South
+21/08/2018,corn,6,Cashido ,18,127,10,North_South
+21/08/2018,corn,7,Solari ,19,134,10,North_South
+21/08/2018,corn,7,Tap ,20,143,11,North_South
+21/08/2018,corn,7,Cashido ,21,138,11,North_South
+21/08/2018,corn,8,Solari ,22,146,12,North_South
+21/08/2018,corn,8,Tap ,23,152,12,North_South
+21/08/2018,corn,8,Cashido ,24,137,11,North_South
+21/08/2018,corn,9,Solari ,25,146,10,North_South
+21/08/2018,corn,9,Tap ,26,144,10,North_South
+21/08/2018,corn,9,Cashido ,27,156,11,North_South
+21/08/2018,corn,10,Solari ,28,158,12,North_South
+21/08/2018,corn,10,Tap ,29,140,10,North_South
+21/08/2018,corn,10,Cashido ,30,136,10,North_South
+31/08/2018,corn,1,Tap ,1,162,12,South_North
+31/08/2018,corn,1,Solari ,2,166,12,South_North
+31/08/2018,corn,1,Cashido ,3,174,13,South_North
+31/08/2018,corn,2,Tap ,4,166,12,South_North
+31/08/2018,corn,2,Solari ,5,164,10,South_North
+31/08/2018,corn,2,Cashido ,6,164,11,South_North
+31/08/2018,corn,3,Tap ,7,143,13,South_North
+31/08/2018,corn,3,Solari ,8,148,13,South_North
+31/08/2018,corn,3,Cashido ,9,182,13,South_North
+31/08/2018,corn,4,Tap ,10,168,12,South_North
+31/08/2018,corn,4,Solari ,11,158,11,South_North
+31/08/2018,corn,4,Cashido ,12,165,12,South_North
+31/08/2018,corn,5,Tap ,13,175,12,South_North
+31/08/2018,corn,5,Solari ,14,153,12,South_North
+31/08/2018,corn,5,Cashido ,15,132,13,South_North
+31/08/2018,corn,6,Solari ,16,139,13,North_South
+31/08/2018,corn,6,Tap ,17,156,12,North_South
+31/08/2018,corn,6,Cashido ,18,151,12,North_South
+31/08/2018,corn,7,Solari ,19,153,13,North_South
+31/08/2018,corn,7,Tap ,20,153,11,North_South
+31/08/2018,corn,7,Cashido ,21,154,12,North_South
+31/08/2018,corn,8,Solari ,22,155,11,North_South
+31/08/2018,corn,8,Tap ,23,170,11,North_South
+31/08/2018,corn,8,Cashido ,24,159,11,North_South
+31/08/2018,corn,9,Solari ,25,160,12,North_South
+31/08/2018,corn,9,Tap ,26,159,12,North_South
+31/08/2018,corn,9,Cashido ,27,169,12,North_South
+31/08/2018,corn,10,Solari ,28,173,12,North_South
+31/08/2018,corn,10,Tap ,29,152,11,North_South
+31/08/2018,corn,10,Cashido ,30,143,10,North_South
+23/07/2018,cotton,1,Tap,31,10.5,4,North_South
+23/07/2018,cotton,1,Solari,32,11,4,North_South
+23/07/2018,cotton,1,Cashido,33,9,4,North_South
+23/07/2018,cotton,2,Tap,34,10,4,North_South
+23/07/2018,cotton,2,Solari,35,10,4,North_South
+23/07/2018,cotton,2,Cashido,36,9,4,North_South
+23/07/2018,cotton,3,Tap,37,9,5,North_South
+23/07/2018,cotton,3,Solari,38,10,4,North_South
+23/07/2018,cotton,3,Cashido,39,12,4,North_South
+23/07/2018,cotton,4,Tap,40,11,4,North_South
+23/07/2018,cotton,4,Solari,41,10,4,North_South
+23/07/2018,cotton,4,Cashido,42,10,5,North_South
+23/07/2018,cotton,5,Tap,43,10,4,North_South
+23/07/2018,cotton,5,Solari,44,10,4,North_South
+23/07/2018,cotton,5,Cashido,45,8,5,North_South
+23/07/2018,cotton,6,Solari,46,11,4,South_North
+23/07/2018,cotton,6,Tap,47,11,4,South_North
+23/07/2018,cotton,6,Cashido,48,11,4,South_North
+23/07/2018,cotton,7,Solari,49,11,5,South_North
+23/07/2018,cotton,7,Tap,50,10,5,South_North
+23/07/2018,cotton,7,Cashido,51,11,4,South_North
+23/07/2018,cotton,8,Solari,52,11,4,South_North
+23/07/2018,cotton,8,Tap,53,10,4,South_North
+23/07/2018,cotton,8,Cashido,54,10,4,South_North
+23/07/2018,cotton,9,Solari,55,12,5,South_North
+23/07/2018,cotton,9,Tap,56,10,4,South_North
+23/07/2018,cotton,9,Cashido,57,11,4,South_North
+23/07/2018,cotton,10,Solari,58,10,4,South_North
+23/07/2018,cotton,10,Tap,59,10,4,South_North
+23/07/2018,cotton,10,Cashido,60,4,3,South_North
+27/07/2018,cotton,1,Tap,31,12,6,North_South
+27/07/2018,cotton,1,Solari,32,12,6,North_South
+27/07/2018,cotton,1,Cashido,33,12,6,North_South
+27/07/2018,cotton,2,Tap,34,12,6,North_South
+27/07/2018,cotton,2,Solari,35,12,6,North_South
+27/07/2018,cotton,2,Cashido,36,13,6,North_South
+27/07/2018,cotton,3,Tap,37,11,6,North_South
+27/07/2018,cotton,3,Solari,38,10,6,North_South
+27/07/2018,cotton,3,Cashido,39,12,6,North_South
+27/07/2018,cotton,4,Tap,40,13,6,North_South
+27/07/2018,cotton,4,Solari,41,13,6,North_South
+27/07/2018,cotton,4,Cashido,42,11,6,North_South
+27/07/2018,cotton,5,Tap,43,12,6,North_South
+27/07/2018,cotton,5,Solari,44,11,6,North_South
+27/07/2018,cotton,5,Cashido,45,11,6,North_South
+27/07/2018,cotton,6,Solari,46,10,6,South_North
+27/07/2018,cotton,6,Tap,47,12,6,South_North
+27/07/2018,cotton,6,Cashido,48,13,6,South_North
+27/07/2018,cotton,7,Solari,49,13,6,South_North
+27/07/2018,cotton,7,Tap,50,13,6,South_North
+27/07/2018,cotton,7,Cashido,51,12,6,South_North
+27/07/2018,cotton,8,Solari,52,12,6,South_North
+27/07/2018,cotton,8,Tap,53,13,6,South_North
+27/07/2018,cotton,8,Cashido,54,12,6,South_North
+27/07/2018,cotton,9,Solari,55,12,6,South_North
+27/07/2018,cotton,9,Tap,56,13,6,South_North
+27/07/2018,cotton,9,Cashido,57,12,5,South_North
+27/07/2018,cotton,10,Solari,58,13,6,South_North
+27/07/2018,cotton,10,Tap,59,12,6,South_North
+27/07/2018,cotton,10,Cashido,60,5,4,South_North
+30/07/2018,cotton,1,Tap,31,14,6,North_South
+30/07/2018,cotton,1,Solari,32,13,7,North_South
+30/07/2018,cotton,1,Cashido,33,14,6,North_South
+30/07/2018,cotton,2,Tap,34,14,7,North_South
+30/07/2018,cotton,2,Solari,35,15,7,North_South
+30/07/2018,cotton,2,Cashido,36,15,7,North_South
+30/07/2018,cotton,3,Tap,37,14,6,North_South
+30/07/2018,cotton,3,Solari,38,13,7,North_South
+30/07/2018,cotton,3,Cashido,39,14,6,North_South
+30/07/2018,cotton,4,Tap,40,15,6,North_South
+30/07/2018,cotton,4,Solari,41,15,6,North_South
+30/07/2018,cotton,4,Cashido,42,14,6,North_South
+30/07/2018,cotton,5,Tap,43,14,6,North_South
+30/07/2018,cotton,5,Solari,44,13,6,North_South
+30/07/2018,cotton,5,Cashido,45,13,6,North_South
+30/07/2018,cotton,6,Solari,46,11,7,South_North
+30/07/2018,cotton,6,Tap,47,14,6,South_North
+30/07/2018,cotton,6,Cashido,48,15,6,South_North
+30/07/2018,cotton,7,Solari,49,14,6,South_North
+30/07/2018,cotton,7,Tap,50,15,7,South_North
+30/07/2018,cotton,7,Cashido,51,14,7,South_North
+30/07/2018,cotton,8,Solari,52,13,6,South_North
+30/07/2018,cotton,8,Tap,53,14,6,South_North
+30/07/2018,cotton,8,Cashido,54,14,7,South_North
+30/07/2018,cotton,9,Solari,55,14,6,South_North
+30/07/2018,cotton,9,Tap,56,15,7,South_North
+30/07/2018,cotton,9,Cashido,57,14,6,South_North
+30/07/2018,cotton,10,Solari,58,15,6,South_North
+30/07/2018,cotton,10,Tap,59,14,6,South_North
+30/07/2018,cotton,10,Cashido,60,7,5,South_North
+21/08/2018,cotton,1,Tap,31,32,9,North_South
+21/08/2018,cotton,1,Solari,32,35,9,North_South
+21/08/2018,cotton,1,Cashido,33,35,9,North_South
+21/08/2018,cotton,2,Tap,34,35,9,North_South
+21/08/2018,cotton,2,Solari,35,34,9,North_South
+21/08/2018,cotton,2,Cashido,36,44,9,North_South
+21/08/2018,cotton,3,Tap,37,38,9,North_South
+21/08/2018,cotton,3,Solari,38,35,9,North_South
+21/08/2018,cotton,3,Cashido,39,36,9,North_South
+21/08/2018,cotton,4,Tap,40,44,9,North_South
+21/08/2018,cotton,4,Solari,41,38,8,North_South
+21/08/2018,cotton,4,Cashido,42,36,9,North_South
+21/08/2018,cotton,5,Tap,43,,,North_South
+21/08/2018,cotton,5,Solari,44,33,10,North_South
+21/08/2018,cotton,5,Cashido,45,32,9,North_South
+21/08/2018,cotton,6,Solari,46,32,9,South_North
+21/08/2018,cotton,6,Tap,47,33,9,South_North
+21/08/2018,cotton,6,Cashido,48,30,8,South_North
+21/08/2018,cotton,7,Solari,49,36,9,South_North
+21/08/2018,cotton,7,Tap,50,37,9,South_North
+21/08/2018,cotton,7,Cashido,51,35,9,South_North
+21/08/2018,cotton,8,Solari,52,34,9,South_North
+21/08/2018,cotton,8,Tap,53,37,9,South_North
+21/08/2018,cotton,8,Cashido,54,34,9,South_North
+21/08/2018,cotton,9,Solari,55,37,9,South_North
+21/08/2018,cotton,9,Tap,56,38,9,South_North
+21/08/2018,cotton,9,Cashido,57,41,9,South_North
+21/08/2018,cotton,10,Solari,58,37,10,South_North
+21/08/2018,cotton,10,Tap,59,34,9,South_North
+21/08/2018,cotton,10,Cashido,60,27,8,South_North
+31/08/2018,cotton,1,Tap,31,37,11,North_South
+31/08/2018,cotton,1,Solari,32,39,10,North_South
+31/08/2018,cotton,1,Cashido,33,38,11,North_South
+31/08/2018,cotton,2,Tap,34,39,10,North_South
+31/08/2018,cotton,2,Solari,35,39,10,North_South
+31/08/2018,cotton,2,Cashido,36,48,10,North_South
+31/08/2018,cotton,3,Tap,37,43,10,North_South
+31/08/2018,cotton,3,Solari,38,39,10,North_South
+31/08/2018,cotton,3,Cashido,39,39,10,North_South
+31/08/2018,cotton,4,Tap,40,49,10,North_South
+31/08/2018,cotton,4,Solari,41,41,10,North_South
+31/08/2018,cotton,4,Cashido,42,38,10,North_South
+31/08/2018,cotton,5,Tap,43,,,North_South
+31/08/2018,cotton,5,Solari,44,38,10,North_South
+31/08/2018,cotton,5,Cashido,45,38,10,North_South
+31/08/2018,cotton,6,Solari,46,35,10,South_North
+31/08/2018,cotton,6,Tap,47,38,10,South_North
+31/08/2018,cotton,6,Cashido,48,32,8,South_North
+31/08/2018,cotton,7,Solari,49,41,10,South_North
+31/08/2018,cotton,7,Tap,50,42,11,South_North
+31/08/2018,cotton,7,Cashido,51,39,11,South_North
+31/08/2018,cotton,8,Solari,52,39,9,South_North
+31/08/2018,cotton,8,Tap,53,42,10,South_North
+31/08/2018,cotton,8,Cashido,54,38,10,South_North
+31/08/2018,cotton,9,Solari,55,41,11,South_North
+31/08/2018,cotton,9,Tap,56,44,10,South_North
+31/08/2018,cotton,9,Cashido,57,46,10,South_North
+31/08/2018,cotton,10,Solari,58,43,11,South_North
+31/08/2018,cotton,10,Tap,59,38,10,South_North
+31/08/2018,cotton,10,Cashido,60,35,10,South_North

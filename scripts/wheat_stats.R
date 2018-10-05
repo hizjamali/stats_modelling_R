@@ -7,7 +7,7 @@ library(emmeans)
 # load data from a folder within a R project
 #bubbles <- read_csv(("data/bubbles.csv"))
 
-wheat <- read.csv('Data/wheat yield.csv')
+wheat <- read.csv('data/wheat yield.csv')
 
 str(wheat)
 View(wheat)
@@ -58,4 +58,6 @@ summary(lm2)
 emmeans(lm2, pairwise~Variety)
 plot(lm2, which=c(1,2)) #gives first two plots only
 
+install.packages('reshape2')
+library(reshape2)
 
